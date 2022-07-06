@@ -1,0 +1,25 @@
+$color-primary: #46D7B3;
+$color-grey: #F9F9F9;
+
+body {
+
+    font-family: 'Cairo', sans-serif;
+
+    .btn-primary {
+        background-color: $color-primary !important;
+        border-color: $color-primary !important;
+    }
+
+    .bg-primary {
+        background-color: $color-primary !important;
+    }
+
+    .text-primary {
+        color: $color-primary !important;
+    }
+
+    .bg-grey {
+        background-color: $color-grey;
+    }
+
+}
